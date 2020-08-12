@@ -1,0 +1,15 @@
+.form-field{
+    display: flex;
+}
+.fas,.far{
+    padding-right:15px;
+    padding-top: 10px;
+}
+.outer-container{
+    justify-content: center;
+    align-items: center;
+    background-color: #B3E5FC;
+}
+#help{
+    padding:15px;
+}

@@ -1,0 +1,16 @@
+html,.join-container,#intro{
+    background-color: #B3E5FC;
+}
+.tag{
+    font-family: 'Karla';
+    animation: reveal 1.5s ease-in-out;
+    text-decoration: none!important;
+}
+#bored{
+    color:white;
+    font-family: 'Pacifico', sans-serif;
+}
+@keyframes reveal{
+    from{opacity: 0;}
+    to{opacity: 100;}
+  }

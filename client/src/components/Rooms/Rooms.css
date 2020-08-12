@@ -1,0 +1,22 @@
+.room-container{
+    color:white;
+    background-color: #B3E5FC;
+}
+.holder{
+    
+    background-color: #f7797d;
+    border-radius: 10px;
+}
+
+h3{
+    background-color: #f7797d;
+    color:black!important;
+    font-family: 'Karla'!important;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 0px 0px 10px 10px;
+}
+hr{
+    border-color: white!important;
+    height: 0.5;
+}
